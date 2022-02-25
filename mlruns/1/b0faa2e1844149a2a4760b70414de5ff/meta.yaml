@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chbro/code/Albore952/TaxiFareModel/mlruns/1/b0faa2e1844149a2a4760b70414de5ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b0faa2e1844149a2a4760b70414de5ff
+run_uuid: b0faa2e1844149a2a4760b70414de5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645539487909
+status: 1
+tags: []
+user_id: unknown
